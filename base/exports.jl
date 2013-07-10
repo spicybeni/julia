@@ -548,8 +548,6 @@ export
     slicedim,
     sort,
     sort!,
-    sortby,
-    sortby!,
     sortperm,
     sortrows,
     sortcols,
